@@ -19,15 +19,15 @@
  * 
  * @param object.profile {Object} An object containing a refernece to the
  *     screen name we wish to grab tweets for. Should be like this:
- *     {"screenName": 'jason_mayes'}
+ *     {"screenName": 'mulongojoel'}
  * 
  * @param object.likes {Object} An object containing a refernece to the
  *     screen name we wish to grab likes for. Should be like this:
- *     {"screenName": 'jason_mayes'}
+ *     {"screenName": 'mulongojoel'}
  * 
  * @param object.list {Object} An object containing a refernece to the
  *     screen name we wish to grab list for. Should be like this:
- *     {"listSlug": 'inspiration', "screenName": 'jason_mayes'}
+ *     {"listSlug": 'inspiration', "screenName": 'mulongojoel'}
  *
  * 
  * You may also specify one or more of the following optional properties
@@ -72,7 +72,7 @@
  * NEW: These first examples no longer need the Widget ID to work.
  *************************************************************************/
 var configList = {
-  "list": {"listSlug": 'inspiration', "screenName": 'jason_mayes'},
+  "list": {"listSlug": 'inspiration', "screenName": 'mulongojoel'},
   "domId": 'exampleList',
   "maxTweets": 5,
   "enableLinks": true, 
@@ -85,7 +85,7 @@ twitterFetcher.fetch(configList);
 
 
 var configProfile = {
-  "profile": {"screenName": 'jason_mayes'},
+  "profile": {"screenName": 'mulongojoel'},
   "domId": 'exampleProfile',
   "maxTweets": 3,
   "enableLinks": true, 
@@ -98,7 +98,7 @@ twitterFetcher.fetch(configProfile);
 
 
 var configLikes = {
-  "likes": {"screenName": 'jason_mayes'},
+  "likes": {"screenName": 'mulongojoel'},
   "domId": 'exampleLikes',
   "maxTweets": 3,
   "enableLinks": true, 

@@ -42,7 +42,7 @@ Please read comments in JavaScript for examples on how to use and how to generat
 
 ## Got suggestions? Feedback? Feature requests? Tell me!
 
-At time of writing I have made over 132 changes, and many are the result of feature requests from people like you! I want to help all the developers out there get tweets on their sites once again - with ease, as it should be. Talk to me: Via [Google+](https://plus.google.com/u/0/+JasonMayes/posts/j65ntqa5Qd3), [twitter](http://www.twitter.com/jason_mayes), or my [website](http://www.jasonmayes.com/).
+At time of writing I have made over 132 changes, and many are the result of feature requests from people like you! I want to help all the developers out there get tweets on their sites once again - with ease, as it should be. Talk to me: Via [Google+](https://plus.google.com/u/0/+JasonMayes/posts/j65ntqa5Qd3), [twitter](http://www.twitter.com/mulongojoel), or my [website](http://www.jasonmayes.com/).
 
 ## Disclaimer
 
