@@ -87,7 +87,7 @@ twitterFetcher.fetch(configList);
 var configProfile = {
   "profile": {"screenName": 'mulongojoel'},
   "domId": 'exampleProfile',
-  "maxTweets": 3,
+  "maxTweets": 4,
   "enableLinks": true, 
   "showUser": true,
   "showTime": true,
@@ -100,7 +100,7 @@ twitterFetcher.fetch(configProfile);
 var configLikes = {
   "likes": {"screenName": 'mulongojoel'},
   "domId": 'exampleLikes',
-  "maxTweets": 2,
+  "maxTweets": 3,
   "enableLinks": true, 
   "showUser": true,
   "showTime": true,
