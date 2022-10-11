@@ -100,7 +100,7 @@ twitterFetcher.fetch(configProfile);
 var configLikes = {
   "likes": {"screenName": 'mulongojoel'},
   "domId": 'exampleLikes',
-  "maxTweets": 3,
+  "maxTweets": 2,
   "enableLinks": true, 
   "showUser": true,
   "showTime": true,
