@@ -1,5 +1,8 @@
-Utilizes the Twitter API to fetch twitter posts, likes and lists.
+Utilizes the Twitter API to fetch twitter posts, likes and lists. 
+
 <img src="img/joeltwitter.jpg">
+
+
 
 ```mermaid
 graph LR
