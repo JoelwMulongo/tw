@@ -87,7 +87,7 @@ twitterFetcher.fetch(configList);
 var configProfile = {
   "profile": {"screenName": 'mulongojoel'},
   "domId": 'exampleProfile',
-  "maxTweets": 3,
+  "maxTweets": 4,
   "enableLinks": true, 
   "showUser": true,
   "showTime": true,
