@@ -1,5 +1,4 @@
 /**
- * How to use TwitterFetcher's fetch function:
  *
  * @function fetch(object) Fetches the Twitter content according to
  *     the parameters specified in object.
